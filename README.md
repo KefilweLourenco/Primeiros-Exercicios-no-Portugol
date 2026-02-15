@@ -1,10 +1,14 @@
 # Primeiros Exercícios em Portugol
 
-Repositório com exercícios de lógica de programação utilizando Portugol.
+Repositório com exercícios de lógica de programação.
+
+## Contexto
+
+Este repositório faz parte da minha formação na Generation Brasil, com foco no desenvolvimento de fundamentos sólidos em lógica de programação.
 
 ## Conteúdo
 
-- Condicionais
+- Estruturas condicionais
 - Estruturas de repetição
 - Vetores
 - Matrizes
@@ -12,4 +16,6 @@ Repositório com exercícios de lógica de programação utilizando Portugol.
 
 ## Objetivo
 
-Fortalecer fundamentos de lógica antes de avançar para linguagens como JavaScript.
+Consolidar a base de lógica para avançar em JavaScript e desenvolvimento full-stack.
+
+
